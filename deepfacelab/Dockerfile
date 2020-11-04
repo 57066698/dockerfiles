@@ -33,5 +33,4 @@ ENTRYPOINT service ssh start && /bin/bash
 # you will need change root password by following command
 # docker ps
 # docker exec -it [containerid] /bin/bash
-# passwd root
-~                         
+# passwd root                         
